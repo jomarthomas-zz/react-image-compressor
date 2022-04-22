@@ -74,7 +74,7 @@ export default class imageCompressor extends React.Component {
           </Navbar.Brand>
         </Navbar>
 
-        <div className="m-5 p-5">
+        <div className="m-5 pt-5">
           <div className="row" style={{ alignItems: "baseline" }}>
             <div className="col-xl-4 col-lg-4 col-md-12 col-sm-12">
               {this.state.uploadImage ? (
